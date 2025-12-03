@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN" "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="200 120 600 350">
+
+	<title>Smrekar</title>
+	
+	<g stroke="#303fa1" stroke-width="1px" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<!-- noge -->
+		<line x1="310" y1="300" x2="375" y2="225" />
+		<line x1="375" y1="225" x2="440" y2="300" />
+		
+		<line x1="350" y1="300" x2="400" y2="250" />
+		<line x1="350" y1="250" x2="400" y2="300" />
+</g>
+</svg>
